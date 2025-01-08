@@ -39,8 +39,16 @@ What drives me is the challenge of **transforming raw data into actionable insig
 
 ## :rocket: **Featured Project**
 
-### **End-to-End Real-Time Sentiment Analysis Pipeline**  
+### Scalable MLOps Pipeline for Real-Time Amazon Reviews
 We developed an **end-to-end** sentiment analysis solution on the **UCSD Amazon Reviews 2023** dataset (~338 million reviews) that **automates** data ingestion, validation, preprocessing, and model deployment. Leveraging **Apache Airflow** for pipeline orchestration, **DVC** for data versioning and state-of-the-art models like **BERT** and **RoBERTa** for sentiment classification, the system also integrates **RAG** (Retrieval-Augmented Generation) for aspect-wise summarization and **MLflow** for model tracking. Deployed via **Docker** and **Vertex AI**, and monitored through **CI/CD** on **GitHub Actions**, this solution provides real-time analytics and interactive dashboards in **Streamlit**, empowering teams to make **data-driven decisions** that enhance customer experience and drive business growth.
+- **Pipeline Flow**:
+  1. **Data Ingestion**: Real-time data streams from Amazon’s review endpoints → stored in GCP bucket.  
+  2. **ETL & Preprocessing**: Tokenization, cleaning, language detection, and sentiment labeling in Airflow DAGs.  
+  3. **Modeling**: TensorFlow-based sentiment classifier trained on *massive labeled data*, achieving ~80% accuracy.  
+  4. **Continuous Delivery**: GitHub Actions triggers container rebuilds, automatically deploying new model versions to Kubernetes clusters.  
+  5. **Monitoring & Alerting**: Automatic logs, metrics in Stackdriver, Slack notifications on anomalies.  
+- **Throughput**: Scaled to handle **1,000+ predictions per second**, ensuring near real-time insights for marketing, product, and user experience teams.  
+- **Impact**: Provided instantaneous sentiment insights, aiding product managers in rapid response to customer feedback and iterative product improvements.
 
 ---
 
