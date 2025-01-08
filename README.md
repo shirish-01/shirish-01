@@ -18,7 +18,7 @@
 
 ## :man_technologist: About Me
 
-Hello! I’m **VENKATA SUBBARAO SHIRISH ADDAGANTI**, a graduate student at **Northeastern University**, where I’ve done my **MS in Data Analytics Engineering** . My journey revolves around creating **end-to-end data solutions**—from **wrangling massive datasets** and building robust **ETL pipelines**, to **developing and deploying AI models** with industry-standard **MLOps** practices.
+Hello! I’m **VENKATA SUBBARAO SHIRISH ADDAGANTI**👋, a graduate student at **Northeastern University**, where I’ve done my **MS in Data Analytics Engineering** . My journey revolves around creating **end-to-end data solutions**—from **wrangling massive datasets** and building robust **ETL pipelines**, to **developing and deploying AI models** with industry-standard **MLOps** practices.
 
 What drives me is the challenge of **transforming raw data into actionable insights**. I love exploring new technologies that push the limits of **data-driven problem-solving**, whether it’s **cloud-native platforms**, **containerization tools**, or the latest **machine learning frameworks**. In my spare time, you’ll often find me reading up on cutting-edge data science trends, tinkering with side projects on GitHub, or brainstorming new ways to leverage AI in real-world scenarios.
 
@@ -52,6 +52,41 @@ We developed an **end-to-end** sentiment analysis solution on the **UCSD Amazon 
 
 
 ---
+## ⚙️ Tech & Tools (So Far, But Not Limited To...)
+
+**Data & Analytics**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=Snowflake&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-85DCFF?style=flat&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+
+
+---
+
+**MLOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+
 
 ## :mailbox: **Contact Me**
 
